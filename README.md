@@ -1,4 +1,4 @@
-[![Header](https://github.com/MatveySDK/MatveySDK/blob/main/assets/rickroll-roll.gif)](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
+[![Header](https://github.com/MatveySDK/MatveySDK/blob/main/assets/gif.gif)](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
 
 ## Beginner coder, love games from Valve, creator of simple modifications on Source
 
