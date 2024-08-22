@@ -18,8 +18,7 @@ I'm rediska, an aspiring programmer with a passion for creating innovative proje
 **Project**
 -------------
 
-### [Source+](https://github.com/MatveySDK/source-plus)
-A project that has a modified source-engine, with many improvements, as well as a simplified system of tools for the engine
+### [My pet-project](https://github.com/MatveySDK/nova-os)
 
 
 **Contact Me**
