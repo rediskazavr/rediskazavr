@@ -10,9 +10,7 @@ I'm rediska, an aspiring programmer with a passion for creating innovative proje
 
  * ![VSCode](https://img.shields.io/badge/-VisualStudioCode-42AAFF)
  * ![GitHub Dekstop](https://img.shields.io/badge/-GitHubDekstop-414A4C)
- * ![Source Engine](https://img.shields.io/badge/-SourceEngine-FFBF00)
  * ![C++](https://img.shields.io/badge/-C%2b%2b-8000FF)
- * ![Python](https://img.shields.io/badge/-Python-ecf96a)
 
 
 **Project**
