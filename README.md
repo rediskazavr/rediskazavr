@@ -5,7 +5,6 @@
 </p>
 
 ## About me
-[![Reddit](https://img.shields.io/badge/-Reddit-FF0000?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/nerediska/)
 
 Programming is my hobby =)  
 
