@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm nerediskareal </h1>
+<h1 align="center">👋 Hello! I'm MatveySDK </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -13,7 +13,7 @@ I am interested in low-level development in programming languages such as (ASM, 
 At the same time, I have fun playing games
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/MatveySDK/nova-os)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatveySDK&repo=nova-os&theme=dracula&bg_color=00000000&)](https://github.com/MatveySDK/nova-os)
 
 
 <details align="left">
