@@ -22,7 +22,7 @@ At the same time, I have fun playing games
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,assembly&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=obsidian,markdown,bash,windows,ubuntu,linux,git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=neovim&perline=7" />
     <br>
