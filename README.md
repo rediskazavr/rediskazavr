@@ -5,13 +5,12 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-Reddit-FF0000?style=flat&logo=reddit&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF0000?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/nerediska/)
 
-I'm a backend developer from Russia, working at [@VladStandard](https://github.com/VladStandard) / [@Elixor](https://github.com/ElixorTeam).  
+Programming is my hobby =)  
 
-I'm interested in web development, games. I hate JavaScript💀  
-At the same time, I upload videos on YouTube and teach students programming.
+I am interested in low-level development in programming languages such as (ASM, C, C++, Rust)  
+At the same time, I have fun playing games
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaggerFast&repo=ItManuals&theme=dracula&bg_color=00000000&)](https://github.com/BaggerFast/ItManuals)
