@@ -20,11 +20,11 @@ At the same time, I have fun playing games
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,git&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=neovim&perline=7" />
     <br>
   </p>
 </details>
