@@ -8,7 +8,7 @@
 
 Programming is my hobby =)  
 
-I am interested in low-level development in programming languages such as (ASM, C, C++, Rust)  
+I am interested in low-level development in programming languages such as (ASM, C, Rust)  
 At the same time, I have fun playing games
 
 ## 📌Pinned
