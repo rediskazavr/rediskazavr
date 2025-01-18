@@ -12,7 +12,7 @@ I am interested in low-level development in programming languages such as (ASM, 
 At the same time, I have fun playing games
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatveySDK&repo=web-client&theme=dracula&bg_color=00000000&)](https://github.com/rediskazavr/nova-os)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rediskazavr&repo=nova-os&theme=dracula&bg_color=00000000&)](https://github.com/rediskazavr/nova-os)
 
 
 <details align="left">
