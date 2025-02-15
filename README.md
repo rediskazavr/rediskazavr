@@ -10,6 +10,7 @@ Programming is my hobby =)
 
 I am interested in low-level development in programming languages such as (ASM, C, Rust)  
 At the same time, I have fun playing games
+> I'm using [Ubuntu Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rediskazavr&repo=TUI-OS&theme=dracula&bg_color=00000000&)](https://github.com/rediskazavr/TUI-OS)
