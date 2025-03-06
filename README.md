@@ -20,7 +20,7 @@ At the same time, I have fun playing games
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,c,rust,assembly&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,rust,zig,go,assembly&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=obsidian,markdown,bash,ubuntu,linux,git&perline=7" />
     <h3>Software</h3>
