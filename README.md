@@ -8,7 +8,7 @@
 
 Programming is my hobby =)  
 
-I am interested in low-level development in programming languages such as (ASM, C, Rust)  
+I am interested in development in programming languages such as (ASM, C, C++, Go, Zig ,Solidity, Rust)  
 At the same time, I have fun playing games
 > I'm using [Ubuntu Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)
 
