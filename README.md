@@ -8,7 +8,7 @@
 
 Programming is my hobby =)  
 
-I am interested in development in programming languages such as (ASM, C, C++, Go,Solidity, Rust)  
+I am interested in development in programming languages such as (C, C++)  
 At the same time, I have fun playing games
 > I'm using [Ubuntu Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)
 
@@ -20,7 +20,7 @@ At the same time, I have fun playing games
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,c,rust,go,solidity,assembly&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,assembly&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=obsidian,markdown,bash,ubuntu,linux,git&perline=7" />
     <h3>Software</h3>
