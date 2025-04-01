@@ -8,7 +8,7 @@
 
 Programming is my hobby =)  
 
-I am interested in development in programming languages such as (C, C++)  
+I am interested in development in programming languages such as (C++, Rust, JavaScript)  
 At the same time, I have fun playing games
 > I'm using [Ubuntu Hyprland](https://github.com/JaKooLit/Ubuntu-Hyprland)
 
