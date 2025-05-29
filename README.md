@@ -6,28 +6,10 @@
 
 ## About me
 
-Programming is my hobby =)  
-
-I am interested in development in programming languages such as (C++, Rust, JavaScript)  
-At the same time, I have fun playing games
+Programming is my hobby =)
 
 ## 📌Pinned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rediskazavr&repo=ax3-tools&theme=dracula&bg_color=00000000&)](https://github.com/rediskazavr/ax3-tools)
-
-
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,rust,js,assembly&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=obsidian,markdown,bash,docker,linux,git&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=neovim,vscode&perline=7" />
-    <br>
-  </p>
-</details>
-
 
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
