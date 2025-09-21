@@ -24,8 +24,8 @@
 </p>
 
 ## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rediskazavr&repo=ax3-tools&theme=gruvbox)](https://github.com/rediskazavr/ax3-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rediskazavr&repo=ax3-tools&theme=dark)](https://github.com/rediskazavr/ax3-tools)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rediskazavr&theme=gruvbox&show_icons=true&locale=ru" alt="rediskazavr" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rediskazavr&theme=dark&show_icons=true&locale=ru" alt="rediskazavr" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rediskazavr&theme=gruvbox&show_icons=true&locale=ru&layout=compact" alt="rediskazavr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rediskazavr&theme=dark&show_icons=true&locale=ru&layout=compact" alt="rediskazavr" /></p>
