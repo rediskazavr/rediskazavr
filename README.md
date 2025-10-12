@@ -6,11 +6,9 @@
 
 ## About me
 
-- 🔭 I’m currently working on **virona-web (Website for the company) fullstack**
+- 🔭 I’m currently working on **[NightFall](https://github.com/rediskazavr/nightfall)**
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS + React**
-
-- 👯 I’m looking to work **DevOps + Go, Python language**
+- 👯 I’m looking to work **System Architect**
 
 - 👨‍💻 All of my projects are available at [https://rediskazavr.github.io/](https://rediskazavr.github.io/)
 
