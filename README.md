@@ -6,8 +6,6 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[NightFall](https://github.com/rediskazavr/nightfall)**
-
 - 👯 I’m looking to work **System Architect**
 
 - 👨‍💻 All of my projects are available at [https://rediskazavr.github.io/](https://rediskazavr.github.io/)
