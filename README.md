@@ -6,7 +6,7 @@
 
 ## About me
 
-- 👯 I’m looking to work **System Architect**
+- 👯 I'm studying at Cloud Native Architect
 
 - 👨‍💻 All of my projects are available at [https://rediskazavr.github.io/](https://rediskazavr.github.io/)
 
