@@ -4,24 +4,27 @@
  <img width="960" height="320" src="assets/background.gif" alt="snake"/>
 </p>
 
-## About me
+# 💫 About Me:
+👯 I'm studying at Cloud Native Architect<br><br>👨‍💻 My web page https://rediskazavr.github.io/<br><br>📝 My blog https://t.me/rediskanewtime<br><br>📫 How to reach me @rediskazavrr (telegram)<br><br>💻 Owner of PodpolnayaGryadka organization
 
-- 👯 I'm studying at Cloud Native Architect
 
-- 👨‍💻 All of my projects are available at [https://rediskazavr.github.io/](https://rediskazavr.github.io/)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/includecore) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rediskazavr) 
 
-- 📝 My blog [https://t.me/rediskanewtime](https://t.me/rediskanewtime)
+# 💻 Tech Stack:
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rediskazavr&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rediskazavr&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rediskazavr&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-- 📫 How to reach me **@rediskazavrr (telegram)**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/includecore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="includecore" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rediskazavr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📌Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rediskazavr&repo=ax3-tools&theme=dark)](https://github.com/rediskazavr/ax3-tools)
+---
+[![](https://visitcount.itsvg.in/api?id=rediskazavr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rediskazavr&theme=dark&show_icons=true&locale=ru" alt="rediskazavr" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rediskazavr&theme=dark&show_icons=true&locale=ru&layout=compact" alt="rediskazavr" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
