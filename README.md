@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-👯 I'm studying at Cloud Native Architect<br><br>👨‍💻 My web page https://rediskazavr.github.io/<br><br>📝 My blog https://t.me/rediskanewtime<br><br>📫 How to reach me @wehateweb3 (telegram)<br><br>💻 Owner of PodpolnayaGryadka organization
+👯 I'm studying at Cloud Native Architect<br><br>👨‍💻 My web page https://rediskazavr.github.io/<br><br>📝 My blog https://t.me/rediskanewtime<br><br>📫 How to reach me @whoweb3 (telegram)<br><br>💻 Owner of PodpolnayaGryadka organization
 
 
 ## 🌐 Socials:
