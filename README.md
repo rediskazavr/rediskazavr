@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm rediskazavr </h1>
 
 <p align="center">
- <img width="960" height="320" src="assets/background1.gif" alt="snake"/>
+ <img width="960" height="320" src="assets/background2.gif" alt="snake"/>
 </p>
 
 # 💫 About Me:
